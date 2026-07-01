@@ -23,7 +23,7 @@ this repo's `main`**, touching only code:
 
 ```bash
 # one-time: point "upstream" at this repo
-git remote add upstream https://github.com/<owner>/interactive-3d-model.git
+git remote add upstream https://github.com/maxiludwig/interactive-3d-model.git
 
 # for each feature:
 git fetch upstream
