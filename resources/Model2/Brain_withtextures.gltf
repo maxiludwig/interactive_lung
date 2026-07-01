@@ -1,0 +1,769 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.4.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 29280,
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 31542,
+      "bufferView": 0,
+      "byteOffset": 58560
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 5712,
+      "bufferView": 0,
+      "byteOffset": 121644
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 7848,
+      "bufferView": 0,
+      "byteOffset": 133068
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 7506,
+      "bufferView": 0,
+      "byteOffset": 148764
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 46032,
+      "bufferView": 0,
+      "byteOffset": 163776
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 46887,
+      "bufferView": 0,
+      "byteOffset": 255840
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 7374,
+      "bufferView": 0,
+      "byteOffset": 349616
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 9618,
+      "bufferView": 0,
+      "byteOffset": 364364
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 15525,
+      "bufferView": 0,
+      "byteOffset": 383600
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 4320,
+      "bufferView": 0,
+      "byteOffset": 414652
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 13416,
+      "max": [
+        -0.00963348988443613,
+        0.13552871346473694,
+        0.8348485231399536
+      ],
+      "min": [
+        -0.6867225170135498,
+        -0.9007269144058228,
+        -0.7974089980125427
+      ],
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 13416,
+      "bufferView": 1,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 14951,
+      "max": [
+        0.667070209980011,
+        0.13812237977981567,
+        0.8345240354537964
+      ],
+      "min": [
+        -0.00030575317214243114,
+        -0.9290990233421326,
+        -0.8124737739562988
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 14951,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 2451,
+      "max": [
+        0.36759400367736816,
+        -0.27991899847984314,
+        0.3630389869213104
+      ],
+      "min": [
+        -0.35648301243782043,
+        -0.9612399935722351,
+        -0.3047110140323639
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 2451,
+      "bufferView": 3,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 2830,
+      "max": [
+        0.6179309487342834,
+        0.24336151778697968,
+        0.8927415013313293
+      ],
+      "min": [
+        -0.6471080183982849,
+        -1.0499550104141235,
+        -0.8224170207977295
+      ],
+      "bufferView": 4,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 2830,
+      "bufferView": 4,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 2680,
+      "max": [
+        0.31645798683166504,
+        -0.25217801332473755,
+        0.4345000088214874
+      ],
+      "min": [
+        -0.32105299830436707,
+        -0.6796429753303528,
+        -0.15291699767112732
+      ],
+      "bufferView": 5,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 2680,
+      "bufferView": 5,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 20006,
+      "max": [
+        0.033302001655101776,
+        0.18287698924541473,
+        0.8626670241355896
+      ],
+      "min": [
+        -0.7187429666519165,
+        -0.9420825242996216,
+        -0.8404754996299744
+      ],
+      "bufferView": 6,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 20006,
+      "bufferView": 6,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 20461,
+      "max": [
+        0.706965982913971,
+        0.17612199485301971,
+        0.8740704655647278
+      ],
+      "min": [
+        -0.0462384931743145,
+        -0.9597640037536621,
+        -0.8282170295715332
+      ],
+      "bufferView": 7,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 20461,
+      "bufferView": 7,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3049,
+      "max": [
+        0.3877499997615814,
+        -0.7754020094871521,
+        -0.017861999571323395
+      ],
+      "min": [
+        0.00953300017863512,
+        -1.1018459796905518,
+        -0.45821601152420044
+      ],
+      "bufferView": 8,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 3049,
+      "bufferView": 8,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 4112,
+      "max": [
+        -0.011226999573409557,
+        -0.7559019923210144,
+        -0.01827000081539154
+      ],
+      "min": [
+        -0.450219988822937,
+        -1.0682859420776367,
+        -0.443248987197876
+      ],
+      "bufferView": 9,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 4112,
+      "bufferView": 9,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 6831,
+      "max": [
+        0.5193679928779602,
+        -0.5816460251808167,
+        0.0048329997807741165
+      ],
+      "min": [
+        -0.5506100058555603,
+        -1.2046815156936646,
+        -0.6132490038871765
+      ],
+      "bufferView": 10,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 6831,
+      "bufferView": 10,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1597,
+      "max": [
+        0.2088409960269928,
+        -0.5341330170631409,
+        0.158051997423172
+      ],
+      "min": [
+        -0.20064300298690796,
+        -1.6211509704589844,
+        -0.1639000028371811
+      ],
+      "bufferView": 11,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1597,
+      "bufferView": 11,
+      "byteOffset": 12
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 423292,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 423292,
+      "byteLength": 268320,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 691612,
+      "byteLength": 299020,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 990632,
+      "byteLength": 49020,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1039652,
+      "byteLength": 56600,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1096252,
+      "byteLength": 53600,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1149852,
+      "byteLength": 400120,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1549972,
+      "byteLength": 409220,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1959192,
+      "byteLength": 60980,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2020172,
+      "byteLength": 82240,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2102412,
+      "byteLength": 136620,
+      "byteStride": 20,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2239032,
+      "byteLength": 31940,
+      "byteStride": 20,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Brain_withtextures.bin",
+      "byteLength": 2270972
+    }
+  ],
+  "materials": [
+    {
+      "name": "White",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "roughnessFactor": 0.5,
+        "metallicFactor": 0
+      }
+    },
+    {
+      "name": "Ventricle",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.47679656744003296,
+          0.6670888662338257,
+          1,
+          1
+        ],
+        "roughnessFactor": 0,
+        "metallicFactor": 0
+      }
+    },
+    {
+      "name": "Falx",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8000000715255737,
+          0.532041609287262,
+          0.47173380851745605,
+          1
+        ],
+        "roughnessFactor": 0.5,
+        "metallicFactor": 0
+      }
+    },
+    {
+      "name": "Diencephalon",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3467039167881012,
+          0.14995965361595154,
+          0.13286834955215454,
+          1
+        ],
+        "roughnessFactor": 0.5,
+        "metallicFactor": 0
+      }
+    },
+    {
+      "name": "Braincortex",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4148233234882355,
+          0.0454695001244545,
+          0.06725269556045532,
+          1
+        ],
+        "roughnessFactor": 0.2,
+        "metallicFactor": 0
+      }
+    },
+    {
+      "name": "Cerebellumgrey",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.46207675337791443,
+          0.254151850938797,
+          0.1746475100517273,
+          1
+        ],
+        "roughnessFactor": 0.5,
+        "metallicFactor": 0
+      }
+    },
+    {
+      "name": "Brainstem",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9130979180335999,
+          0.7912972569465637,
+          1,
+          1
+        ],
+        "roughnessFactor": 0.5,
+        "metallicFactor": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "WhiteMatterRight",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 11,
+            "TEXCOORD_0": 12
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 0
+        }
+      ]
+    },
+    {
+      "name": "WhiteMatterLeft",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "TEXCOORD_0": 14
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 1
+        }
+      ]
+    },
+    {
+      "name": "Ventricle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "TEXCOORD_0": 16
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 2
+        }
+      ]
+    },
+    {
+      "name": "FalxTentorium",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 17,
+            "TEXCOORD_0": 18
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "Diencephalon",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 19,
+            "TEXCOORD_0": 20
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 4
+        }
+      ]
+    },
+    {
+      "name": "CortexRight",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 21,
+            "TEXCOORD_0": 22
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 5
+        }
+      ]
+    },
+    {
+      "name": "CortexLeft",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 23,
+            "TEXCOORD_0": 24
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 6
+        }
+      ]
+    },
+    {
+      "name": "CerebellumWhiteRight 1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 25,
+            "TEXCOORD_0": 26
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 7
+        }
+      ]
+    },
+    {
+      "name": "CerebellumWhiteLeft 1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 27,
+            "TEXCOORD_0": 28
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 8
+        }
+      ]
+    },
+    {
+      "name": "CerebellumGrey",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 29,
+            "TEXCOORD_0": 30
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 9
+        }
+      ]
+    },
+    {
+      "name": "BrainStem",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 31,
+            "TEXCOORD_0": 32
+          },
+          "mode": 4,
+          "material": 6,
+          "indices": 10
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "WhiteMatterRight",
+      "mesh": 0
+    },
+    {
+      "name": "WhiteMatterLeft",
+      "mesh": 1
+    },
+    {
+      "name": "Ventricle",
+      "mesh": 2
+    },
+    {
+      "name": "FalxTentorium",
+      "mesh": 3
+    },
+    {
+      "name": "Diencephalon",
+      "mesh": 4
+    },
+    {
+      "name": "CortexRight",
+      "mesh": 5
+    },
+    {
+      "name": "CortexLeft",
+      "mesh": 6
+    },
+    {
+      "name": "CerebellumWhiteRight",
+      "mesh": 7
+    },
+    {
+      "name": "CerebellumWhiteLeft",
+      "mesh": 8
+    },
+    {
+      "name": "CerebellumGrey",
+      "mesh": 9
+    },
+    {
+      "name": "BrainStem",
+      "mesh": 10
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "extras": {
+        "vr_landmarks": [
+          {
+            "type": 0,
+            "base_scale": 1
+          }
+        ]
+      },
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "scene": 0
+}
